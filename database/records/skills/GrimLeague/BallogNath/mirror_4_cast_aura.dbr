@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,applies natural Order,
+instantCast,1,
+buffSkillName,records/skills/GrimLeague/BallogNath/mirror_4_aura.dbr,

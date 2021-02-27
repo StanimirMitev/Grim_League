@@ -1,0 +1,7 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+buffSkillName,records/skills/GrimLeague/winterseal_offenseaura_buff.dbr,
+instantCast,1,
+fileNameHistoryEntry,mods/grimleagues02/records/skills/grimleague/petskill_arcaneseal_offenseaura.dbr,
